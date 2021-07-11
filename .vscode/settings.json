@@ -1,0 +1,4 @@
+{
+    "prettier.useEditorConfig": false,
+    "git.ignoreLimitWarning": true
+}
